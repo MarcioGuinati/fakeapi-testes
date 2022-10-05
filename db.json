@@ -5,6 +5,6 @@
       { "id": 3, "nome": "Cliente teste 3", "cpf": 12345678912 },
       { "id": 4, "nome": "Cliente teste 4", "cpf": 12345678913 },
       { "id": 5, "nome": "Cliente teste 4", "cpf": 12345678913 },
-      { "id": 6, "nome": "Marcio Guinati", "cpf": 47888030890 }
+      { "id": 47888030890, "nome": "Marcio Guinati", "cpf": 47888030890 }
     ]
   }
