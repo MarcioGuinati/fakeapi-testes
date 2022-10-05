@@ -1,0 +1,9 @@
+{
+    "clientes": [
+      { "id": 1, "nome": "Cliente teste 1", "cpf": 12345678910 },
+      { "id": 2, "nome": "Cliente teste 2", "cpf": 12345678911 },
+      { "id": 3, "nome": "Cliente teste 3", "cpf": 12345678912 },
+      { "id": 4, "nome": "Cliente teste 4", "cpf": 12345678913 },
+      { "id": 5, "nome": "Cliente teste 5", "cpf": 12345678914 }
+    ]
+  }
