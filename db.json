@@ -1,7 +1,7 @@
 {
     "clientes": [
       { "cpf": 12345678910, "id": 1, "nome": "João", "endereco": "Rua Teste 1, 2025", "estado": "SP" },
-      { "id": 2, "nome": "Fernando", "cpf": 12345678911, "endereco": "Rua Teste 2, 2025", "estado": "RJ" },
+      { "cpf": 12345678911, "id": 2, "nome": "Fernando", "endereco": "Rua Teste 2, 2025", "estado": "RJ" },
       { "id": 3, "nome": "Marcio", "cpf": 12345678912, "endereco": "Rua Teste 3, 2025", "estado": "SP" },
       { "id": 12345678913, "nome": "Cleber", "cpf": 12345678913, "endereco": "Rua Teste 4, 2025", "estado": "AM" },
       { "id": 12345678914, "nome": "Cesar", "cpf": 12345678914, "endereco": "Rua Teste 5, 2025", "estado": "PI" },
